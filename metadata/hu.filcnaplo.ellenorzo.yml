@@ -1,0 +1,13 @@
+AuthorName: 'filc'
+Categories:
+- School
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/filc/naplo/issues'
+Name: Filc
+SourceCode: 'https://github.com/filc/naplo'
+Summary: 'todo'
+WebSite: 'https://filcnaplo.hu'
+Description: todo
+AntiFeatures:
+- 'NonFreeNet'
+- 'NonFreeAdd'
