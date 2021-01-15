@@ -1,0 +1,88 @@
+{
+  "METADATA_VERSION": 21,
+  "allow_disabled_algorithms": false,
+  "hu.filcnaplo.ellenorzo_2.0.4-4.apk": {
+    "hash": "7a7746f4f0981e4e987187f670b4f8245527c2a25857b5a5eab2dbe9e6019151",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_DOCUMENTS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "hu.filcnaplo.ellenorzo.48.xml",
+      "640": "hu.filcnaplo.ellenorzo.48.png",
+      "480": "hu.filcnaplo.ellenorzo.48.png",
+      "320": "hu.filcnaplo.ellenorzo.48.png",
+      "240": "hu.filcnaplo.ellenorzo.48.png",
+      "160": "hu.filcnaplo.ellenorzo.48.png",
+      "0": "hu.filcnaplo.ellenorzo.48.png"
+    },
+    "antiFeatures": [],
+    "packageName": "hu.filcnaplo.ellenorzo",
+    "versionCode": 48,
+    "name": "Filc Napl\u00f3",
+    "versionName": "2.0.4-4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "fa4124a97199f626ab26d3abdda2636f",
+    "signer": "ce6874f09f56f6ee18859c148b8044969732f778e80769fc67a75373ffdb8d4c",
+    "size": 27747507,
+    "apkName": "hu.filcnaplo.ellenorzo_2.0.4-4.apk",
+    "icon": "hu.filcnaplo.ellenorzo.48.png",
+    "added": 1610742136.232191
+  }
+}
